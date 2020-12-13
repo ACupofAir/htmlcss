@@ -23,7 +23,7 @@
       left: "45%",
       "z-index": 15,
       color: "#F72670",
-      background: "#2ecc71",
+      background: "#1abc9c",
     };
     let button = document.createElement("button"),
       btnStyle = button.style;
