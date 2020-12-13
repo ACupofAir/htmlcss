@@ -6,8 +6,9 @@
 // @author       You
 // @match        http://top.zhan.com/toefl/listen/*
 // @grant        none
-// @updateURL    https://raw.githubusercontent.com/ACupofAir/htmlcss/master/javaScript/DB_changeScore.js
-// @downloadURL  https://raw.githubusercontent.com/ACupofAir/htmlcss/master/javaScript/DB_changeScore.js // ==/UserScript==
+// @updateURL    https://raw.githubusercontent.com/ACupofAir/htmlcss/master/javaScript/changeScore.js
+// @downloadURL  https://raw.githubusercontent.com/ACupofAir/htmlcss/master/javaScript/changeScore.js
+// ==/UserScript==
 
 (function () {
   "use strict";
